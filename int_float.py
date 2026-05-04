@@ -4,3 +4,6 @@ z = "Felix Castellon"
 is_true=True
 is_false= False
 print("la suma de los numero es: ",x+y)
+print(len(z))
+print(z.lower())
+print(z.upper())
